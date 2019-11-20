@@ -1,0 +1,71 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+"Apr 30, 2018",2:00am,EUR,medium,German Retail Sales m/m,-0.6%,0.8%,-0.2%
+"Apr 30, 2018",All Day,EUR,medium,German Prelim CPI m/m,0.0%,-0.1%,0.4%
+"Apr 30, 2018",3:00am,CHF,medium,KOF Economic Barometer,105.3,105.9,105.1
+"Apr 30, 2018",4:00am,EUR,medium,M3 Money Supply y/y,3.7%,4.1%,4.2%
+"Apr 30, 2018",4:00am,EUR,low,Private Loans y/y,3.0%,2.9%,2.9%
+"Apr 30, 2018",5:00am,EUR,low,Italian Prelim CPI m/m,0.1%,0.2%,0.3%
+"Apr 30, 2018",All Day,EUR,low,ECOFIN Meetings,,,
+"Apr 30, 2018",8:30am,CAD,medium,RMPI m/m,2.1%,0.6%,-0.4%
+"Apr 30, 2018",8:30am,CAD,low,IPPI m/m,0.8%,0.2%,0.3%
+"Apr 30, 2018",8:30am,USD,medium,Core PCE Price Index m/m,0.2%,0.2%,0.2%
+"Apr 30, 2018",8:30am,USD,medium,Personal Spending m/m,0.4%,0.4%,0.0%
+"Apr 30, 2018",8:30am,USD,low,Personal Income m/m,0.3%,0.4%,0.3%
+"Apr 30, 2018",9:45am,USD,medium,Chicago PMI,57.6,58.2,57.4
+"Apr 30, 2018",10:00am,USD,low,Pending Home Sales m/m,0.4%,0.6%,2.8%
+"Apr 30, 2018",2:30pm,CAD,high,BOC Gov Poloz Speaks,,,
+"Apr 30, 2018",6:30pm,AUD,low,AIG Manufacturing Index,58.3,,63.1
+"Apr 30, 2018",6:45pm,NZD,low,Building Consents m/m,14.7%,,6.4%
+"Apr 30, 2018",All Day,CNY,holiday,Bank Holiday,,,
+"Apr 30, 2018",8:30pm,JPY,low,Final Manufacturing PMI,53.8,53.3,53.3
+"May 1, 2018",12:30am,AUD,high,RBA Rate Statement,,,
+"May 1, 2018",12:30am,AUD,medium,Cash Rate,1.50%,1.50%,1.50%
+"May 1, 2018",All Day,CHF,holiday,Bank Holiday,,,
+"May 1, 2018",All Day,EUR,holiday,French Bank Holiday,,,
+"May 1, 2018",All Day,EUR,holiday,German Bank Holiday,,,
+"May 1, 2018",All Day,EUR,holiday,Italian Bank Holiday,,,
+"May 1, 2018",2:30am,AUD,low,Commodity Prices y/y,-1.4%,,-2.8%
+"May 1, 2018",4:30am,GBP,high,Manufacturing PMI,53.9,54.8,54.9
+"May 1, 2018",4:30am,GBP,medium,Net Lending to Individuals m/m,4.2B,4.9B,5.5B
+"May 1, 2018",4:30am,GBP,low,M4 Money Supply m/m,-1.4%,0.2%,-0.4%
+"May 1, 2018",4:30am,GBP,low,Mortgage Approvals,63K,63K,64K
+"May 1, 2018",6:20am,AUD,high,RBA Gov Lowe Speaks,,,
+"May 1, 2018",8:30am,CAD,high,GDP m/m,0.4%,0.3%,-0.1%
+"May 1, 2018",9:30am,CAD,low,Manufacturing PMI,55.5,,55.7
+"May 1, 2018",9:45am,USD,low,Final Manufacturing PMI,56.5,56.5,56.5
+"May 1, 2018",10:00am,USD,high,ISM Manufacturing PMI,57.3,58.4,59.3
+"May 1, 2018",10:00am,USD,low,Construction Spending m/m,-1.7%,0.5%,1.0%
+"May 1, 2018",10:00am,USD,low,ISM Manufacturing Prices,79.3,78.3,78.1
+"May 1, 2018",10:24am,NZD,medium,GDT Price Index,-1.1%,,2.7%
+"May 1, 2018",All Day,USD,low,Total Vehicle Sales,17.2M,17.1M,17.5M
+"May 1, 2018",2:30pm,CAD,high,BOC Gov Poloz Speaks,,,
+"May 1, 2018",6:45pm,NZD,high,Employment Change q/q,0.6%,0.5%,0.4%
+"May 1, 2018",6:45pm,NZD,high,Unemployment Rate,4.4%,4.4%,4.5%
+"May 1, 2018",6:45pm,NZD,low,Labor Cost Index q/q,0.3%,0.5%,0.4%
+"May 1, 2018",7:01pm,GBP,low,BRC Shop Price Index y/y,-1.0%,,-1.0%
+"May 1, 2018",7:50pm,JPY,low,Monetary Base y/y,7.8%,9.2%,9.1%
+"May 1, 2018",9:45pm,CNY,medium,Caixin Manufacturing PMI,51.1,50.9,51.0
+"May 2, 2018",1:02am,JPY,low,Consumer Confidence,43.6,44.6,44.3
+"May 2, 2018",1:45am,CHF,low,SECO Consumer Climate,2,5,5
+"May 2, 2018",3:15am,CHF,low,Retail Sales y/y,-1.8%,0.3%,-0.2%
+"May 2, 2018",3:15am,EUR,low,Spanish Manufacturing PMI,54.4,54.2,54.8
+"May 2, 2018",3:30am,CHF,low,Manufacturing PMI,63.6,59.9,60.3
+"May 2, 2018",3:45am,EUR,low,Italian Manufacturing PMI,53.5,54.4,55.1
+"May 2, 2018",3:50am,EUR,low,French Final Manufacturing PMI,53.8,53.4,53.4
+"May 2, 2018",3:55am,EUR,low,German Final Manufacturing PMI,58.1,58.1,58.1
+"May 2, 2018",4:00am,EUR,low,Final Manufacturing PMI,56.2,56.0,56.0
+"May 2, 2018",4:00am,EUR,low,Italian Monthly Unemployment Rate,11.0%,10.9%,11.0%
+"May 2, 2018",4:30am,GBP,high,Construction PMI,52.5,50.5,47.0
+"May 2, 2018",5:00am,EUR,medium,Prelim Flash GDP q/q,0.4%,0.4%,0.6%
+"May 2, 2018",5:00am,EUR,low,Italian Prelim GDP q/q,0.3%,0.3%,0.3%
+"May 2, 2018",5:00am,EUR,low,Unemployment Rate,8.5%,8.5%,8.5%
+"May 2, 2018",8:15am,USD,high,ADP Non-Farm Employment Change,204K,200K,228K
+"May 2, 2018",10:30am,USD,high,Crude Oil Inventories,6.2M,1.0M,2.2M
+"May 2, 2018",11:30am,EUR,medium,German Buba President Weidmann Speaks,,,
+"May 2, 2018",2:00pm,USD,high,FOMC Statement,,,
+"May 2, 2018",2:00pm,USD,high,Federal Funds Rate,<1.75%,<1.75%,<1.75%
+"May 2, 2018",6:30pm,AUD,low,AIG Services Index,55.2,,56.9
+"May 2, 2018",All Day,JPY,holiday,Bank Holiday,,,
+"May 2, 2018",9:00pm,NZD,low,ANZ Commodity Prices m/m,1.0%,,1.2%
+"May 2, 2018",9:30pm,AUD,high,Trade Balance,1.53B,0.68B,1.35B
+"May 2, 2018",9:30pm,AUD,medium,Building Approvals m/m,2.6%,1.1%,-4.2%
